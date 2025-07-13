@@ -37,7 +37,7 @@ Built visualizations using **Kibana**, **Apache Superset**, and **Python Panel a
 - Led a cross-functional team delivering end-to-end test automation: from data collection and conversion, to open loop resimulation, KPI calculation, reporting, and root cause analysis.
 - Designed and deployed cloud-native data pipelines using Python, Docker, Kubernetes (OpenShift), and Azure.
 - Orchestrated complex workflows using Airflow and Flyte with large-scale HDF5 datasets.
-- Defined data interfaces for key microservices (MF4-to-HDF5, Resimulation, KPI Calculation and Aggregation).
+- Defined data interfaces for key microservices data_conversion, Open loop Resimulation, KPI Calculation and Aggregation).
 - Collaborated on a Kafka and GraphQL-based platform; piloted integration in customer projects.
 - Built dashboards and analytics using Kibana, Apache Superset, and custom Python Panel apps.
 - Evaluated GCP and MongoDB; supported field testing including an Autonomous Parking project in Shanghai.
