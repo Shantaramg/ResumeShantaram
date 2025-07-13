@@ -13,7 +13,7 @@ Lead engineer with hands-on experience in **ADAS testing**, **cloud-native data 
 
 Skilled in **Python**, **Docker**, **Kubernetes (OpenShift)**, **Airflow**, **Flyte**, and **Azure**. Experienced in building **microservices using Kafka and GraphQL**, and integrating with **ElasticSearch**, **PostgreSQL**, and **ClickHouse**.
 
-Built visualizations using **Kibana**, **Apache Superset**, and **Python Panel apps**. Strong evaluator of tools like **GoogleCloudPlatform GCP** and **MongoDB**. Now aiming to apply **ML and LLMs** to large-scale ADAS data analysis.
+Built visualizations using **Kibana**, **Apache Superset**, and **Python Panel apps**. Now aiming to apply **ML and LLMs** to large-scale ADAS data analysis.
 
 ---
 
@@ -24,7 +24,6 @@ Built visualizations using **Kibana**, **Apache Superset**, and **Python Panel a
 - **Data Management:** HDF5, MF4, PostgreSQL, ElasticSearch, ClickHouse  
 - **Architecture:** Microservices, Kafka, GraphQL APIs, REST APIs  
 - **Visualization:** Kibana, Apache Superset, Python Panel  
-- **Workflow:** CI/CD, Git, Agile
 
 ---
 
@@ -81,9 +80,7 @@ KLS Gogte Institute of Technology Belgaum, India
 
 ## 🏆 Honors & Awards
 
-- Best Project Performance Award  
-- Spot Award  
-- Best Trainer
+- Best Project Performance Award, Best Trainer at Bosch
 
 ---
 
