@@ -52,7 +52,7 @@ Built visualizations using **Kibana**, **Apache Superset**, and **Python Panel a
 ---
 
 ### Robert Bosch Engineering and Business Solutions Pvt. Ltd.  
-**Various Roles (Associate to Technical Specialist)**  
+**Various Roles (Software Engineer to Technical Specialist)**  
 *Jul 2012 – Nov 2020 · Bengaluru, India*
 
 - Delivered simulation environments for active safety features (ABS, ESP, TCS) using MATLAB Simulink and IPG CarMaker.
