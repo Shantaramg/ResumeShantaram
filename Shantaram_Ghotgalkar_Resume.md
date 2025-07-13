@@ -1,9 +1,14 @@
 # Shantaram Vishwanath Ghotgalkar
+<div style="width: 100%; overflow: hidden;">
 
-📍 Düsseldorf, North Rhine-Westphalia, Germany  
-📞 +49 151 75463354  
-✉️ shan.ghotgalkar@gmail.com  
-🔗 [linkedin.com/in/shantaram-ghotgalkar](https://www.linkedin.com/in/shantaram-ghotgalkar)
+  <img src="profile_pic.jpeg" alt="Shantaram Ghotgalkar" width="120" style="float: right; border-radius: 8px; margin-left: 20px;" />
+
+  📍 Düsseldorf, North Rhine-Westphalia, Germany  
+  📞 +49 151 75463354  
+  ✉️ shan.ghotgalkar@gmail.com  
+  🔗 [linkedin.com/in/shantaram-ghotgalkar](https://www.linkedin.com/in/shantaram-ghotgalkar)
+
+</div>
 
 ---
 
@@ -86,5 +91,4 @@ KLS Gogte Institute of Technology Belgaum, India
 
 ## 🌍 Languages
 
-- English (Full Professional)  
-- German (Elementary)  
+- English (Full Professional), German (Elementary A2 Level)
