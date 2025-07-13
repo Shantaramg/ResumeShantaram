@@ -40,8 +40,12 @@ Built visualizations using **Kibana**, **Apache Superset**, and **Python Panel a
 - Defined data interfaces for key microservices data_conversion, Open loop Resimulation, KPI Calculation and Aggregation).
 - Collaborated on a Kafka and GraphQL-based platform; piloted integration in customer projects.
 - Built dashboards and analytics using Kibana, Apache Superset, and custom Python based Panel apps.
-- Evaluated GCP and MongoDB
+- Evaluated GoogleCloudPlatform (GCP) and MongoDB.
 - Supported field testing and analysis for an Autonomous Parking project in Shanghai.
+- Created tooling to query Open street map data for labeling to evaluate an ADAS function.
+- Created a tool with IPGCarmaker to convert real world labeled data into synthetic carmaker scenarios for simulation.
+- Created many custom python scripts to interface different in-house tools that eased the data analysis work for non-coders.
+- Improved Object matching algorithms to match source objects and reference objects for different sensors like Camera, Fusion etc.
 
 ---
 
