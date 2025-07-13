@@ -13,7 +13,7 @@ Lead engineer with hands-on experience in **ADAS testing**, **cloud-native data 
 
 Skilled in **Python**, **Docker**, **Kubernetes (OpenShift)**, **Airflow**, **Flyte**, and **Azure**. Experienced in building **microservices using Kafka and GraphQL**, and integrating with **ElasticSearch**, **PostgreSQL**, and **ClickHouse**.
 
-Built visualizations using **Kibana**, **Apache Superset**, and **Python Panel apps**. Strong evaluator of tools like **GCP** and **MongoDB**. Now aiming to apply **ML and LLMs** to large-scale ADAS data analysis.
+Built visualizations using **Kibana**, **Apache Superset**, and **Python Panel apps**. Strong evaluator of tools like **GoogleCloudPlatform GCP** and **MongoDB**. Now aiming to apply **ML and LLMs** to large-scale ADAS data analysis.
 
 ---
 
@@ -39,9 +39,9 @@ Built visualizations using **Kibana**, **Apache Superset**, and **Python Panel a
 - Orchestrated complex workflows using Airflow and Flyte with large-scale HDF5 datasets.
 - Defined data interfaces for key microservices data_conversion, Open loop Resimulation, KPI Calculation and Aggregation).
 - Collaborated on a Kafka and GraphQL-based platform; piloted integration in customer projects.
-- Built dashboards and analytics using Kibana, Apache Superset, and custom Python Panel apps.
+- Built dashboards and analytics using Kibana, Apache Superset, and custom Python based Panel apps.
 - Evaluated GCP and MongoDB
-- Supported field testing analysis for an Autonomous Parking project in Shanghai.
+- Supported field testing and analysis for an Autonomous Parking project in Shanghai.
 
 ---
 
