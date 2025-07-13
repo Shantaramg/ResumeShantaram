@@ -24,7 +24,7 @@ Built visualizations using **Kibana**, **Apache Superset**, and **Python Panel a
 - **Data Management:** HDF5, MF4, PostgreSQL, ElasticSearch, ClickHouse  
 - **Architecture:** Microservices, Kafka, GraphQL APIs, REST APIs  
 - **Visualization:** Kibana, Apache Superset, Python Panel  
-- **Workflow:** CI/CD, Git, Agile (SAFE)
+- **Workflow:** CI/CD, Git, Agile
 
 ---
 
@@ -86,6 +86,3 @@ KLS Gogte Institute of Technology Belgaum, India
 
 - English (Full Professional)  
 - German (Elementary)  
-- Kannada (Professional Working)  
-- Marathi (Native)  
-- Hindi (Full Professional)
