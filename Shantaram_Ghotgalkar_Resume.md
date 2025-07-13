@@ -15,15 +15,15 @@
 ## 🧾 Professional Summary
 
 Lead engineer with hands-on experience in **ADAS testing**, **cloud-native data pipelines**, and **workflow orchestration**. Delivered end-to-end automation for Level 2+ ADAS validation—covering data collection, data conversion and quality checks, open-loop resimulation, KPI calculation, and root cause analysis.
-Skilled in **Python**, **Docker**, **Kubernetes (OpenShift)**, **Airflow**, **Flyte**, and **Azure**. Experienced in building **microservices using Kafka and GraphQL**, and integrating with **ElasticSearch**, **PostgreSQL**, and **ClickHouse**.
-Built visualizations using **Kibana**, **Apache Superset**, and **Python Panel apps**. Now aiming to apply **ML and LLMs** to large-scale ADAS data analysis.
+I am skilled in **Python**, **Docker**, **Kubernetes (OpenShift)**, **Airflow**, **Flyte**, and **Azure**. Experienced in building **microservices using Kafka and GraphQL**, and integrating with **ElasticSearch**, **PostgreSQL**, and **ClickHouse**.
+Built visualizations using **Kibana**, **Apache Superset**, and **Python Panel apps**. Currently aiming to apply **ML and LLMs** to large-scale ADAS data analysis.
 
 ---
 
 ## 🛠 Core Skills
 
 - **Programming:** Python, Pandas, NumPy, Bash, MATLAB
-- **Cloud & Orchestration:** Azure, Docker, Kubernetes (OpenShift), Airflow, Flyte  
+- **Cloud & Orchestration:** Azure, Docker, Kubernetes (managed via OpenShift), Airflow, Flyte  
 - **Data Management:** HDF5, MF4, PostgreSQL, ElasticSearch, ClickHouse  
 - **Architecture:** Microservices, Kafka, GraphQL APIs, REST APIs  
 - **Visualization:** Kibana, Apache Superset, Python Panel  
@@ -39,15 +39,15 @@ Built visualizations using **Kibana**, **Apache Superset**, and **Python Panel a
 - Led a cross-functional team delivering end-to-end test automation: from data collection and conversion, to open-loop resimulation, KPI calculation, reporting, and root cause analysis.
 - Designed and deployed cloud-native data pipelines using Python, Docker, Kubernetes (OpenShift), and Azure.
 - Orchestrated complex workflows using Airflow and Flyte with large-scale HDF5 datasets.
-- Defined data interfaces for key microservices data_conversion, Open-Loop Resimulation, KPI Calculation and Aggregation).
+- Defined data interfaces for key microservices including Data Conversion, Open-Loop Resimulation, KPI Calculation and Aggregation.
 - Collaborated on a Kafka and GraphQL-based microservices architecture; piloted the solution in customer projects.
-- Built dashboards and analytics using Kibana, Apache Superset, and Python based Panel apps.
-- Evaluated GoogleCloudPlatform (GCP) and MongoDB.
-- Improved Object matching algorithms to match source objects and reference objects for different sensors like Camera, Fusion etc.
-- Created many custom python scripts to interface different in-house tools that eased the data analysis work for non-coders.
+- Built dashboards and analytics using Kibana, Apache Superset, and Python-based Panel apps.
+- Evaluated Google Cloud Platform (GCP) and MongoDB.
+- Improved object-matching algorithms for aligning source and reference data across sensors such as Camera and Fusion.
+- Created many custom Python scripts to interface different in-house tools that eased the data analysis work for non-coders.
 - Developed tools to query OpenStreetMap for labeling to evaluate an ADAS function.
 - Supported field testing and analysis for an Autonomous Parking project in Shanghai.
-- Created a tool with IPGCarmaker to convert real world labeled data into synthetic carmaker scenarios for simulation.
+- Created a tool using IPG CarMaker to convert real-world labeled data into synthetic scenarios for simulation.
 
 ---
 
@@ -57,7 +57,7 @@ Built visualizations using **Kibana**, **Apache Superset**, and **Python Panel a
 
 - Delivered simulation environments for active safety features (ABS, ESP, TCS) using MATLAB Simulink and IPG CarMaker.
 - Led tool development and piloting for ESP system calibration and SIL testing in virtual environments.
-- Conducted simulation trainings and supported OEM collaborations in Germany.
+- Conducted simulation training sessions and supported OEM collaborations in Germany.
 - Explored applications of machine learning for brake system measurement evaluation.
 - Held progressive technical roles, contributing to tooling, automation, and simulation capability development.
 
