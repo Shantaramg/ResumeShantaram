@@ -19,7 +19,7 @@ Built visualizations using **Kibana**, **Apache Superset**, and **Python Panel a
 
 ## 🛠 Core Skills
 
-- **Programming:** Python, Pandas, NumPy, Bash  
+- **Programming:** Python, Pandas, NumPy, Bash, Matlab
 - **Cloud & Orchestration:** Azure, Docker, Kubernetes (OpenShift), Airflow, Flyte  
 - **Data Management:** HDF5, MF4, PostgreSQL, ElasticSearch, ClickHouse  
 - **Architecture:** Microservices, Kafka, GraphQL APIs, REST APIs  
@@ -40,7 +40,8 @@ Built visualizations using **Kibana**, **Apache Superset**, and **Python Panel a
 - Defined data interfaces for key microservices data_conversion, Open loop Resimulation, KPI Calculation and Aggregation).
 - Collaborated on a Kafka and GraphQL-based platform; piloted integration in customer projects.
 - Built dashboards and analytics using Kibana, Apache Superset, and custom Python Panel apps.
-- Evaluated GCP and MongoDB; supported field testing including an Autonomous Parking project in Shanghai.
+- Evaluated GCP and MongoDB
+- Supported field testing analysis for an Autonomous Parking project in Shanghai.
 
 ---
 
@@ -48,10 +49,10 @@ Built visualizations using **Kibana**, **Apache Superset**, and **Python Panel a
 **Various Roles (Associate to Technical Specialist)**  
 *Jul 2012 – Nov 2020 · Bengaluru, India*
 
-- Delivered simulation environments for active safety features (ABS, ESP, TCS) using ETAS ASCET and IPG CarMaker.
+- Delivered simulation environments for active safety features (ABS, ESP, TCS) using Matlab Simulink and IPG CarMaker.
 - Led tool development and method piloting for ESP calibration and SIL testing.
-- Conducted simulation training and supported OEM collaboration in Germany.
-- Researched ML use in ADAS measurement evaluation.
+- Conducted simulation trainings and supported OEM collaboration in Germany.
+- Researched ML use in braking system measurement evaluation.
 - Held roles including Software Engineer, Senior Software Engineer, and Technical Specialist.
 
 ---
