@@ -15,9 +15,7 @@
 ## 🧾 Professional Summary
 
 Lead engineer with hands-on experience in **ADAS testing**, **cloud-native data pipelines**, and **workflow orchestration**. Delivered end-to-end automation for Level 2+ ADAS validation—covering data collection, data conversion and quality checks, open-loop resimulation, KPI calculation, and root cause analysis.
-
 Skilled in **Python**, **Docker**, **Kubernetes (OpenShift)**, **Airflow**, **Flyte**, and **Azure**. Experienced in building **microservices using Kafka and GraphQL**, and integrating with **ElasticSearch**, **PostgreSQL**, and **ClickHouse**.
-
 Built visualizations using **Kibana**, **Apache Superset**, and **Python Panel apps**. Now aiming to apply **ML and LLMs** to large-scale ADAS data analysis.
 
 ---
@@ -34,7 +32,7 @@ Built visualizations using **Kibana**, **Apache Superset**, and **Python Panel a
 
 ## 💼 Professional Experience
 
-### ZF Group  
+### ZF Active Safety GmbH  
 **Lead Engineer – ADAS L2+ Testing & Data Management**  
 *Dec 2020 – Present · Gelsenkirchen, Germany*
 
@@ -43,7 +41,7 @@ Built visualizations using **Kibana**, **Apache Superset**, and **Python Panel a
 - Orchestrated complex workflows using Airflow and Flyte with large-scale HDF5 datasets.
 - Defined data interfaces for key microservices data_conversion, Open-Loop Resimulation, KPI Calculation and Aggregation).
 - Collaborated on a Kafka and GraphQL-based microservices architecture; piloted the solution in customer projects.
-- Built dashboards and analytics using Kibana, Apache Superset, and custom Python based Panel apps.
+- Built dashboards and analytics using Kibana, Apache Superset, and Python based Panel apps.
 - Evaluated GoogleCloudPlatform (GCP) and MongoDB.
 - Improved Object matching algorithms to match source objects and reference objects for different sensors like Camera, Fusion etc.
 - Created many custom python scripts to interface different in-house tools that eased the data analysis work for non-coders.
